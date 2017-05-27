@@ -1,0 +1,7 @@
+{
+  "name": "webpack-compare-stats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "songawee <songawee@gmail.com>",
+  "license": "MIT"
+}
